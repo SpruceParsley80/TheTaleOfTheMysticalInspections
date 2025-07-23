@@ -1,4 +1,3 @@
-hello
-how are you
-this is a readme
-SKIBIDIHAMSTER IS NOT AFFILIATED AT ALL WITH SPRUCEPARSLEY80 AT ALL TRUST ME IT WAS A MISTAKE
+my dumb ahh made a new repository for this by mistake please go to repository TaleOFTheMysticalInspections
+Here is the link
+https://github.com/SpruceParsley80/TaleOfTheMysticalInspections
